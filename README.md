@@ -31,17 +31,15 @@ A 12-week intensive software development course focusing on:
 
 - Object Oriented Design
 - Agile Working Methodologies  
-- Test Driven Development
-- Language agnostic learning
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Test Driven Development (RSpec, Jasmine)
+- Language agnostic learning (Ruby, Rails, JavaScript)
 
 #### University of Manchester (Sep 2008 - Jun 2011)
 
 BA (Hons) Architecture 2:1
 
 - Used problem-solving, user-programming and research to design meaningful spaces for people.
-- Self-taught in Computer Aided Design software: Autocad, Microstation, SketchUp—plus Adobe Photoshop, InDesign and Illustrator.
+- Self-taught in Computer Aided Design software: Autocad, Microstation, SketchUp—plus Adobe Photoshop and InDesign.
 
 #### Our Lady's Convent High School (Sep 2000 - Jul 2011)
 
@@ -57,8 +55,8 @@ GSCE:
 *Communications Officer, Culture & Heritage*  
 - Project management: Oversaw the launch of an [online culture hub](https://wfculture.co.uk/) for the London Borough of Waltham Forest—promoting events, opportunities and resources for the borough's residents and creative community.
 - Digital platforms: Managed digital content and promotion before and during Waltham Forest's year as the first London Borough of Culture in 2019.
-- Content creation: Commissioning a roster of freelance designers, photographers, videographers, print suppliers and web developers to produce content celebrating Waltham Forest's cultural programme.
-- Stakeholder management: working with councillors, officers, local residents and creatives.
+- Content creation: Commissioned a roster of freelance designers, photographers, videographers, print suppliers and web developers to produce content celebrating Waltham Forest's cultural programme.
+- Stakeholder management: maintained relationships with councillors, officers, local residents and creatives.
 
 **Immediate Media** (May 2019 - Jul 2019)   
 *Marketing Manager, New Designers*  
@@ -69,9 +67,9 @@ GSCE:
 *Marketing Manager (from May 2016)*
 
 - Web projects: Worked with external and internal web development teams to manage the launch of several brand new websites for our trade exhibition portfolio, as well as the redesign and upkeep of existing ones.
-- Targeted marketing campaigns: Delivered tailored, data-driven messaging to trade professionals across a mix of channels.
-- Ticket management: Led the creation of a custom booking system for a complex education programme, and managed a range of delegate registration platforms across my portfolio.
-- Curation: Created and managed the talks programmes for two of our biggest exhibitions, with speakers including architect Daniel Libeskind and designer Tom Dixon.
+- Marketing campaigns: Delivered tailored, data-driven campaigns to trade professionals across a mix of channels.
+- Ticket management: Led the creation of a custom booking system for a complex healthcare education programme, and managed a range of delegate registration platforms across my portfolio.
+- Curation: Created and managed the talks programmes for two of our biggest design exhibitions, with speakers including architect Daniel Libeskind and designer Tom Dixon.
 - Partnerships: Secured and nurtured relationships with partners including WGSN, Design Museum, Dezeen, Renault and TFL.
 - Team management: Managed a small team of marketing executives and freelance staff.
 
