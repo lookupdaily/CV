@@ -55,7 +55,7 @@ GSCE:
 *Communications Officer, Culture & Heritage*  
 - Project management: Oversaw the launch of an [online culture hub](https://wfculture.co.uk/) for the London Borough of Waltham Forest—promoting events, opportunities and resources for the borough's residents and creative community.
 - Digital platforms: Managed digital content and promotion before and during Waltham Forest's year as the first London Borough of Culture in 2019.
-- Content creation: Commissioned a roster of freelance designers, photographers, videographers, print suppliers and web developers to produce content celebrating Waltham Forest's cultural programme.
+- Content creation: Commissioned a roster of freelance designers, photographers, videographers, print suppliers and web developers to produce content celebrating Waltham Forest's cultural programme, writing engaging copy to go with it.
 - Stakeholder management: maintained relationships with councillors, officers, local residents and creatives.
 
 **Immediate Media** (May 2019 - Jul 2019)   
@@ -68,7 +68,7 @@ GSCE:
 
 - Web projects: Worked with external and internal web development teams to manage the launch of several brand new websites for our trade exhibition portfolio, as well as the redesign and upkeep of existing ones.
 - Marketing campaigns: Delivered tailored, data-driven campaigns to trade professionals across a mix of channels.
-- Ticket management: Led the creation of a custom booking system for a complex healthcare education programme, and managed a range of delegate registration platforms across my portfolio.
+- Ticket management: Managed a range of delegate registration platforms across my portfolio, and briefed custom-builds for more complex projects—such as a comprehensive CPD programme for eye health professionals.
 - Curation: Created and managed the talks programmes for two of our biggest design exhibitions, with speakers including architect Daniel Libeskind and designer Tom Dixon.
 - Partnerships: Secured and nurtured relationships with partners including WGSN, Design Museum, Dezeen, Renault and TFL.
 - Team management: Managed a small team of marketing executives and freelance staff.
@@ -87,7 +87,7 @@ Annual two week architectural workshop for 400 students in locations around Euro
 Denmark, making furniture for public space.
 
 
-## Hobbies
+## Interests
 
 - **Architecture:** I still have a keen eye for architecture and love to explore a great building, debate aesthetics, or stroke a bit of concrete.
 - **Hiking:** Walking clears the mind and brings clarity to any situation, often with a great view.
