@@ -1,27 +1,36 @@
 ## Liz Daly
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+A junior software developer with an appetite for learning and great design. 
 
-Creative and proactive marketing and communications professional working in arts, culture and design.
+My background is in the creative industry, as a marketeer for large scale arts and design events. Increasingly, our events were reliant on our digital platforms, which is where my I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
+
+I have spent much of my career building and refining websites with brilliant web development teams. Now I am looking for a new challenge as a software developer, where I can use some of my experience to help build great products myself.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Communication(s)
 
-#### This Skill
+As a creative marketing professional I have honed my expertise in communications, from writing engaging copy for arts blogs and social media, to internal communications and team management.
 
-- Experience
-- Achievements
-- Evidence
+#### Content management
 
-#### Another Skill
+I have seven years experience in creating, commissioning and managing content for arts communications. Whilst at Media 10 I worked with our web development team to launch four brand new websites, as well as the upkeep and redesign of exisitng sites in my portfolio-and I am extremely comfortable with content management systems. I have plenty of experience as a client for web development services, and content is at the heart of my planning when developing products.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### User-focused
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+From architecture, to marketing and now software development, defining audience is key. Right from the get-go, before we start designing, we need to define who our audience is. And if the project is up and running, we need to keep checking in. Is this still the audience we are serving? How are they engaging with our product? Reaching the right audience, rather than purely numbers through the door, was integral to a successful event for our exhibitors for all of our portfolio at Media 10. 
+
+I am also interested in ensuring web products are accessible to wide audiences by integrating accessibility into the development process from the get-go, using semantics and good design practice. 
+
+#### Rapid learner
+
+Whilst at Makers Academy, I have been challenged to learn new languages at every corner, striving to become a language agnostic developer.
+
+I have always been adept at learning new skills and absorbing information quickly—teaching myself design software throughout my architectural education, and constantly picking up new challenges in the workplace. Whilst at Media 10, I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. I stepped in at Upper Street Events to deliver the marketing campaign for New Designers six weeks before opening, applying my knowledge of similar industry events to hit the ground running. 
+
+#### Creative
+
+With an architectural education and a background in design events, I have a keen eye for design, and this is something which I am keen to apply in my software career. I am comfortable working both with design teams, and with a suite of design software. Whilst learning software development, I have continued to explore the application of CSS and CSS libraries in my projects - so that I can maintain a strong knowledge of the full stack, from design to architecture. 
 
 ## Education
 
@@ -39,7 +48,7 @@ A 12-week intensive software development course focusing on:
 BA (Hons) Architecture 2:1
 
 - Used problem-solving, user-programming and research to design meaningful spaces for people.
-- Self-taught in Computer Aided Design software: Autocad, Microstation, SketchUp—plus Adobe Photoshop and InDesign.
+- Self-taught in Computer Aided Design software: Autocad, Microstation, SketchUp. Plus Adobe Photoshop and InDesign.
 
 #### Our Lady's Convent High School (Sep 2000 - Jul 2011)
 
@@ -64,11 +73,11 @@ GSCE:
 - Managed digital content, targeted marketing campaigns, design, photography and video content.
 
 **Media 10** (Feb 2013 - Oct 2017) \
-*Marketing Manager (from May 2016)*
+*Marketing Manager (from May 2016) - Clerkenwell Design Week, 100% Design, Design Shanghai, 100% Optical*
 
 - Web projects: Worked with external and internal web development teams to manage the launch of several brand new websites for our trade exhibition portfolio, as well as the redesign and upkeep of existing ones.
 - Marketing campaigns: Delivered tailored, data-driven campaigns to trade professionals across a mix of channels.
-- Ticket management: Managed a range of delegate registration platforms across my portfolio, and briefed custom-builds for more complex projects—such as a comprehensive CPD programme for eye health professionals.
+- Ticket management: Managed a range of delegate registration platforms across my portfolio, briefing custom-builds for more complex projects.
 - Curation: Created and managed the talks programmes for two of our biggest design exhibitions, with speakers including architect Daniel Libeskind and designer Tom Dixon.
 - Partnerships: Secured and nurtured relationships with partners including WGSN, Design Museum, Dezeen, Renault and TFL.
 - Team management: Managed a small team of marketing executives and freelance staff.
@@ -92,3 +101,6 @@ Denmark, making furniture for public space.
 - **Architecture:** I still have a keen eye for architecture and love to explore a great building, debate aesthetics, or stroke a bit of concrete.
 - **Hiking:** Walking clears the mind and brings clarity to any situation, often with a great view.
 - **Travelling:** I love to combine both of the above and explore a new city or country.
+
+## Links
+
