@@ -1,6 +1,6 @@
 ## Liz Daly
 
-A junior software developer with an appetite for learning and great design. 
+A software developer with an appetite for learning and great design. 
 
 My background is in the creative industry, as a marketeer for large scale arts and design events. Increasingly, our events were reliant on our digital platforms, which is where my I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
 
