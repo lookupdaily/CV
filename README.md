@@ -4,7 +4,7 @@
 
 A software developer with an appetite for learning and great design. 
 
-My background is in the creative industry, as a marketeer for large scale arts and design events. Increasingly, our events were reliant on our digital platforms, which is where my I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
+My background is in the creative industry, as a marketeer for large scale arts and design events. Increasingly, our events were reliant on our digital platforms, which is where I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
 
 I have spent much of my career building and refining websites with brilliant web development teams. Now I am looking for a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
 
@@ -12,9 +12,9 @@ I have spent much of my career building and refining websites with brilliant web
 
 |Project   |Description                                                |Technologies                            |
 |----------|-----------------------------------------------------------|----------------------------------------|
-|[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks|Javascript, Ruby, Rails, RSpec, Cabybara|
+|[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks|Javascript, Ruby, Rails, RSpec, Capybara|
 |[Chitter](https://github.com/lookupdaily/chitter-challenge)|A clone of the popular social media app Twitter            |Ruby, Sinatra, Rspec, Capybara          |
-|[Makersbnb](https://github.com/davmcgregor/Makersbnb)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb |Ruby, Sinatra, Rspec, Cabybara|
+|[Makersbnb](https://github.com/davmcgregor/Makersbnb)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb |Ruby, Sinatra, Rspec, Capybara|
 |[Thermostat](https://github.com/lookupdaily/thermostat)|A minimalist front-end app for controlling temperature     |JavaScript and Jasmine                  | 
 
 
@@ -26,7 +26,8 @@ As a creative marketing professional I have honed my expertise in communications
 
 #### Process-driven
 
-Whilst at Makers, I have rediscovered my love for a good diagram. Back when I was learning architecture, iterative 'programme' sketches were essential for visualising the journey through a building—and likewise I have found all sorts of diagrams useful for understanding the different parts/or 'objects' of a programme before I start writing any code. I find a methodical approach, good plannng and test driven development essential for developing my projects, and look forward to developing these skills throughout my career.
+Whilst at Makers, I have rediscovered my love for a good diagram. Back when I was learning architecture, iterative 'programme' sketches were essential for visualising the journey through a building—and likewise I have found all sorts of diagrams useful for understanding the different parts/or 'objects' of a programme before I start writing any code. I find a methodical approach, good planning and test driven development essential for developing my projects, and look forward to developing these skills throughout my career.
+I have been documenting my planning process in my project READMEs. You can find some examples [here](https://github.com/lookupdaily/bank-tech-test) and [here](https://github.com/lookupdaily/chitter-challenge). 
 
 #### User-focused
 
@@ -38,7 +39,7 @@ I am also interested in ensuring web products are accessible to wide audiences b
 
 Whilst at Makers Academy, I have been challenged to learn new languages and frameworks in just a few weeks, striving to become a language agnostic developer.
 
-I have always been adept at learning new skills and absorbing information quickly. From teaching myself design software throughout my architectural education, to picking up new challenges in the workplace. Whilst at Media 10, I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. I stepped in at Upper Street Events to deliver the marketing campaign for New Designers six weeks before opening, applying my knowledge of similar industry events to hit the ground running. 
+I have always been adept at learning new skills and absorbing information quickly. From teaching myself design software throughout my architectural education, to picking up new challenges in the workplace. At Media 10, I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. 
 
 #### Creative
 
