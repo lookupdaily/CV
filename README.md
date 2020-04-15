@@ -1,10 +1,12 @@
 ## Liz Daly
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/lookupdaily/)
+
 A software developer with an appetite for learning and great design. 
 
 My background is in the creative industry, as a marketeer for large scale arts and design events. Increasingly, our events were reliant on our digital platforms, which is where my I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
 
-I have spent much of my career building and refining websites with brilliant web development teams. Now I am looking for a new challenge as a software developer, where I can use some of my experience to help build great products myself.
+I have spent much of my career building and refining websites with brilliant web development teams. Now I am looking for a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
 
 ## Projects
 
@@ -28,7 +30,7 @@ Whilst at Makers, I have rediscovered my love for a good diagram. Back when I wa
 
 #### User-focused
 
-From architecture, to marketing and now software development, defining audience is key. Right from the get-go, before we start designing, we need to define who our audience is. Once the project is up and running, monitoring user experience and interaction remains equally important. Reaching the right audience, rather than purely numbers through the door, was integral to a successful event for all of our portfolio at Media 10. 
+From architecture, to marketing and now software development, defining audience is key. Reaching a targeted audience, rather than purely numbers through the door, was integral to a successful event for all of our portfolio at Media 10. Conversely, in my role at Waltham Forest Council, we were required to engage with the widest possible audience, reflective of the borough's diverse communities. 
 
 I am also interested in ensuring web products are accessible to wide audiences by integrating accessibility into the development process from the get-go, using semantics and good design practice. 
 
@@ -36,7 +38,7 @@ I am also interested in ensuring web products are accessible to wide audiences b
 
 Whilst at Makers Academy, I have been challenged to learn new languages and frameworks in just a few weeks, striving to become a language agnostic developer.
 
-I have always been adept at learning new skills and absorbing information quickly. I taught myself design software throughout my architectural education, and am constantly striving to picking up new challenges in the workplace. Whilst at Media 10, I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. I stepped in at Upper Street Events to deliver the marketing campaign for New Designers six weeks before opening, applying my knowledge of similar industry events to hit the ground running. 
+I have always been adept at learning new skills and absorbing information quickly. From teaching myself design software throughout my architectural education, to picking up new challenges in the workplace. Whilst at Media 10, I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. I stepped in at Upper Street Events to deliver the marketing campaign for New Designers six weeks before opening, applying my knowledge of similar industry events to hit the ground running. 
 
 #### Creative
 
@@ -69,7 +71,7 @@ GSCE:
 
 ## Experience
 
-**Waltham Forest Council** (Jul 2019 - Dec 2019 & Nov 2017 - Nov 2018)    
+**Waltham Forest Council** (Jul 2019 - Dec 2019 & Nov 2017 - Nov 2018, with a travel break)    
 *London Borough of Culture Project Lead, Marketing & Communications* \
 *Communications Officer, Culture & Heritage*  
 - Project management: Oversaw the launch of an [online culture hub](https://wfculture.co.uk/) for the London Borough of Waltham Forest—promoting events, opportunities and resources for the borough's residents and creative community.
@@ -106,15 +108,11 @@ When I started teaching myself to code I was keen to immerse myself in the indus
 **European Architecture Students Assembly** (2010-2013 & 2017) \
 *Organiser and tutor*
 
-Annual two week architectural workshop for 400 students in locations around Europe. In 2017 I led a workshop in
-Denmark, making furniture for public space.
+Annual two week architectural workshop for 400 students in locations around Europe. In 2017 I led a workshop in Denmark, making furniture for public space.
 
 
 ## Interests
 
 - **Architecture:** I still have a keen eye for architecture and love to explore a great building, debate aesthetics, or stroke a bit of concrete.
 - **Hiking:** Walking clears the mind and brings clarity to any situation, often with a great view.
-- **Travelling:** I love to combine both of the above and explore a new city or country.
-
-## Links
-
+- **Travelling:** I love to combine both of the above and explore a new city or country. 
