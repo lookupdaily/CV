@@ -6,31 +6,41 @@ My background is in the creative industry, as a marketeer for large scale arts a
 
 I have spent much of my career building and refining websites with brilliant web development teams. Now I am looking for a new challenge as a software developer, where I can use some of my experience to help build great products myself.
 
+## Projects
+
+|Project   |Description                                                |Technologies                            |
+|----------|-----------------------------------------------------------|----------------------------------------|
+|[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks|Javascript, Ruby, Rails, RSpec, Cabybara|
+|[Chitter](https://github.com/lookupdaily/chitter-challenge)|A clone of the popular social media app Twitter            |Ruby, Sinatra, Rspec, Capybara          |
+|[Makersbnb](https://github.com/davmcgregor/Makersbnb)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb |Ruby, Sinatra, Rspec, Cabybara|
+|[Thermostat](https://github.com/lookupdaily/thermostat)|A minimalist front-end app for controlling temperature     |JavaScript and Jasmine                  | 
+
+
 ## Skills
 
 #### Communication(s)
 
-As a creative marketing professional I have honed my expertise in communications, from writing engaging copy for arts blogs and social media, to internal communications and team management.
+As a creative marketing professional I have honed my expertise in communications, from writing engaging copy for design festival newsletters and social media, commissioning and managing great content to celebrate Waltham Forest's year as the first London Borough of Culture, to internal communications and team management.
 
-#### Content management
+#### Process-driven
 
-I have seven years experience in creating, commissioning and managing content for arts communications. Whilst at Media 10 I worked with our web development team to launch four brand new websites, as well as the upkeep and redesign of exisitng sites in my portfolio-and I am extremely comfortable with content management systems. I have plenty of experience as a client for web development services, and content is at the heart of my planning when developing products.
+Whilst at Makers, I have rediscovered my love for a good diagram. Back when I was learning architecture, iterative 'programme' sketches were essential for visualising the journey through a building—and likewise I have found all sorts of diagrams useful for understanding the different parts/or 'objects' of a programme before I start writing any code. I find a methodical approach, good plannng and test driven development essential for developing my projects, and look forward to developing these skills throughout my career.
 
 #### User-focused
 
-From architecture, to marketing and now software development, defining audience is key. Right from the get-go, before we start designing, we need to define who our audience is. And if the project is up and running, we need to keep checking in. Is this still the audience we are serving? How are they engaging with our product? Reaching the right audience, rather than purely numbers through the door, was integral to a successful event for our exhibitors for all of our portfolio at Media 10. 
+From architecture, to marketing and now software development, defining audience is key. Right from the get-go, before we start designing, we need to define who our audience is. Once the project is up and running, monitoring user experience and interaction remains equally important. Reaching the right audience, rather than purely numbers through the door, was integral to a successful event for all of our portfolio at Media 10. 
 
 I am also interested in ensuring web products are accessible to wide audiences by integrating accessibility into the development process from the get-go, using semantics and good design practice. 
 
 #### Rapid learner
 
-Whilst at Makers Academy, I have been challenged to learn new languages at every corner, striving to become a language agnostic developer.
+Whilst at Makers Academy, I have been challenged to learn new languages and frameworks in just a few weeks, striving to become a language agnostic developer.
 
-I have always been adept at learning new skills and absorbing information quickly—teaching myself design software throughout my architectural education, and constantly picking up new challenges in the workplace. Whilst at Media 10, I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. I stepped in at Upper Street Events to deliver the marketing campaign for New Designers six weeks before opening, applying my knowledge of similar industry events to hit the ground running. 
+I have always been adept at learning new skills and absorbing information quickly. I taught myself design software throughout my architectural education, and am constantly striving to picking up new challenges in the workplace. Whilst at Media 10, I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. I stepped in at Upper Street Events to deliver the marketing campaign for New Designers six weeks before opening, applying my knowledge of similar industry events to hit the ground running. 
 
 #### Creative
 
-With an architectural education and a background in design events, I have a keen eye for design, and this is something which I am keen to apply in my software career. I am comfortable working both with design teams, and with a suite of design software. Whilst learning software development, I have continued to explore the application of CSS and CSS libraries in my projects - so that I can maintain a strong knowledge of the full stack, from design to architecture. 
+With an architectural education and a background in design events, I have a keen eye for design, and this is something which I am keen to apply in my software career. I am comfortable working with design teams, and with using a suite of design software myself. Whilst learning software development, I have continued to explore the application of CSS and CSS libraries in my projects - so that I can develop my skills across the full stack. 
 
 ## Education
 
@@ -63,8 +73,8 @@ GSCE:
 *London Borough of Culture Project Lead, Marketing & Communications* \
 *Communications Officer, Culture & Heritage*  
 - Project management: Oversaw the launch of an [online culture hub](https://wfculture.co.uk/) for the London Borough of Waltham Forest—promoting events, opportunities and resources for the borough's residents and creative community.
-- Digital platforms: Managed digital content and promotion before and during Waltham Forest's year as the first London Borough of Culture in 2019.
-- Content creation: Commissioned a roster of freelance designers, photographers, videographers, print suppliers and web developers to produce content celebrating Waltham Forest's cultural programme, writing engaging copy to go with it.
+- Digital platforms: Managed digital content and promotion before and during Waltham Forest's year as the first London Borough of Culture in 2019. 
+- Content creation: Commissioned a roster of freelance designers, photographers, videographers, print suppliers and web developers to produce content celebrating Waltham Forest's cultural programme, and wrote the copy to go along with it all.
 - Stakeholder management: maintained relationships with councillors, officers, local residents and creatives.
 
 **Immediate Media** (May 2019 - Jul 2019)   
@@ -75,11 +85,10 @@ GSCE:
 **Media 10** (Feb 2013 - Oct 2017) \
 *Marketing Manager (from May 2016) - Clerkenwell Design Week, 100% Design, Design Shanghai, 100% Optical*
 
-- Web projects: Worked with external and internal web development teams to manage the launch of several brand new websites for our trade exhibition portfolio, as well as the redesign and upkeep of existing ones.
-- Marketing campaigns: Delivered tailored, data-driven campaigns to trade professionals across a mix of channels.
-- Ticket management: Managed a range of delegate registration platforms across my portfolio, briefing custom-builds for more complex projects.
+- Web projects: Worked with external and internal web development teams to manage new and existing websites for our growing portfolio. Worked across a variety of web content management systems.
+- Marketing campaigns: Delivered tailored, data-driven campaigns to trade professionals across a mix of channels and a wide-ranging portfolio—from long-standing exhibitions to brand new events in London and Shanghai, China.
+- Ticket management: Managed a range of delegate registration platforms, briefing custom-builds for more complex projects.
 - Curation: Created and managed the talks programmes for two of our biggest design exhibitions, with speakers including architect Daniel Libeskind and designer Tom Dixon.
-- Partnerships: Secured and nurtured relationships with partners including WGSN, Design Museum, Dezeen, Renault and TFL.
 - Team management: Managed a small team of marketing executives and freelance staff.
 
 **KGD Architecture - Bangalore, India** (Mar - September 2012) \
@@ -88,6 +97,11 @@ GSCE:
 Responsible for concepts, initial stages of design and pitching documents.
 
 ## Other experience
+
+**Tech Meet-ups and workshops** \
+*Rails Girls*, *Founders & Coders*
+
+When I started teaching myself to code I was keen to immerse myself in the industry and meet people working in tech before investing in a course. Attending Rails Girls London in 2019 and a short course with Founders & Coders helped me to test out my interests and learn quickly with like-minded people. 
 
 **European Architecture Students Assembly** (2010-2013 & 2017) \
 *Organiser and tutor*
