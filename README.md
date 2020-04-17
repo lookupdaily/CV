@@ -24,6 +24,12 @@ I have spent much of my career building and refining websites with brilliant web
 
 ## Skills
 
+#### Tech
+
+**JavaScript** - Jquery, Jasmine, Webpack, APIs
+**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
+Git, HTML, CSS, Bootstrap, SQL, Travis CI, Heroku, Agile, Test Driven Development
+
 #### Communication(s)
 
 As a creative marketing professional I have honed my expertise in communications, from writing engaging copy for design festival newsletters and social media, commissioning and managing great content to celebrate Waltham Forest's year as the first London Borough of Culture, to internal communications and team management.
@@ -31,11 +37,12 @@ As a creative marketing professional I have honed my expertise in communications
 #### Process-driven
 
 Whilst at Makers, I have rediscovered my love for a good diagram. Back when I was learning architecture, iterative 'programme' sketches were essential for visualising the journey through a building—and likewise I have found all sorts of diagrams useful for understanding the different parts/or 'objects' of a programme before I start writing any code. I find a methodical approach, good planning and test driven development essential for developing my projects, and look forward to developing these skills throughout my career.
+
 I have been documenting my planning process in my project READMEs. You can find some examples [here](https://github.com/lookupdaily/bank-tech-test) and [here](https://github.com/lookupdaily/chitter-challenge). 
 
 #### User-focused
 
-From architecture, to marketing and now software development, defining audience is key. Reaching a targeted audience, rather than purely numbers through the door, was integral to a successful event for all of our portfolio at Media 10. Conversely, in my role at Waltham Forest Council, we were required to engage with the widest possible audience, reflective of the borough's diverse communities. 
+From architecture, to marketing and now software development, defining audience is key. Reaching a targeted audience, rather than purely numbers through the door, was integral to a successful event for all of our portfolio at Media 10. 
 
 I am also interested in ensuring web products are accessible to wide audiences by integrating accessibility into the development process from the get-go, using semantics and good design practice. 
 
@@ -43,7 +50,7 @@ I am also interested in ensuring web products are accessible to wide audiences b
 
 Whilst at Makers Academy, I have been challenged to learn new languages and frameworks in just a few weeks, striving to become a language agnostic developer.
 
-I have always been adept at learning new skills and absorbing information quickly. From teaching myself design software throughout my architectural education, to picking up new challenges in the workplace. At Media 10, I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. 
+I have always been adept at learning new skills and absorbing information quickly. From teaching myself design software throughout my architectural education, to picking up new challenges in the workplace. For example, at Media 10 I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. 
 
 #### Creative
 
@@ -96,7 +103,6 @@ GSCE:
 - Marketing campaigns: Delivered tailored, data-driven campaigns to trade professionals across a mix of channels and a wide-ranging portfolio—from long-standing exhibitions to brand new events in London and Shanghai, China.
 - Ticket management: Managed a range of delegate registration platforms, briefing custom-builds for more complex projects.
 - Curation: Created and managed the talks programmes for two of our biggest design exhibitions, with speakers including architect Daniel Libeskind and designer Tom Dixon.
-- Team management: Managed a small team of marketing executives and freelance staff.
 
 **KGD Architecture - Bangalore, India** (Mar - September 2012) \
 *Architectural Assistant*
