@@ -1,10 +1,11 @@
-<div align="center>
+<div align="center">
 
 <h1>Liz Daly</h1>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/lookupdaily/)
 
 </div>
+
 
 A software developer with an appetite for learning and good design. 
 
