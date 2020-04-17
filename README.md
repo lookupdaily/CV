@@ -1,8 +1,12 @@
-## Liz Daly
+<div align="center>
+
+<h1>Liz Daly</h1>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/lookupdaily/)
 
-A software developer with an appetite for learning and great design. 
+</div>
+
+A software developer with an appetite for learning and good design. 
 
 My background is in the creative industry, as a marketeer for large scale arts and design events. Increasingly, our events were reliant on our digital platforms, which is where I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
 
