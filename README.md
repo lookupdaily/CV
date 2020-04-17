@@ -115,7 +115,7 @@ Responsible for concepts, initial stages of design and pitching documents.
 When I started teaching myself to code I was keen to immerse myself in the industry and meet people working in tech before investing in a course. Attending Rails Girls London in 2019 and a short course with Founders & Coders helped me to test out my interests and learn quickly with like-minded people. 
 
 **European Architecture Students Assembly** (2010-2013 & 2017) \
-*Organiser and tutor*
+*Participant, organiser and tutor*
 
 Annual two week architectural workshop for 400 students in locations around Europe. In 2017 I led a workshop in Denmark, making furniture for public space.
 
