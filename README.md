@@ -24,8 +24,8 @@ I have spent much of my career building and refining websites with brilliant web
 
 #### Tech
 
-**JavaScript** - Jquery, Jasmine, Webpack, APIs
-**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
+JavaScript - Jquery, Jasmine, Webpack, APIs\
+Ruby - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord\
 Git, HTML, CSS, Bootstrap, SQL, Travis CI, Heroku, Agile, Test Driven Development
 
 #### Communication(s)
