@@ -8,7 +8,7 @@
 
 A software developer with an appetite for learning and good design. 
 
-My background is in the creative industry, as a marketeer for large scale arts and design events. Increasingly, our events were reliant on our digital platforms, which is where I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
+My background is in the creative industry, as a marketeer for arts and design events. Increasingly, our events were reliant on our digital platforms, which is where I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
 
 I have spent much of my career building and refining websites with brilliant web development teams. Now I am looking for a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
 
