@@ -1,16 +1,16 @@
 <div align="center">
   <h1>Liz Daly</h1>
 
-  **A full-stack software developer with an appetite for learning.**<br>
+  **A full-stack software developer with an appetite for learning and new challenges**<br>
   [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/lookupdaily/)
   <br>
 </div>
 
 My background is in the creative industry, as a marketeer for arts and design events. Increasingly, our events were reliant on our digital platforms, which is where I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
 
-I have spent much of my career building and refining websites with brilliant web development teams. Now I am looking for a new challenge as a software developer, where I can use some of my experience to help build great products myself.
+I have spent much of my career building and refining websites with brilliant web development teams. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself.
 
-#### Tech Skills
+## Tech Skills
 
 **JavaScript** - Jquery, Jasmine, Webpack, APIs\
 **Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord\
@@ -115,7 +115,7 @@ Responsible for concepts, initial stages of design and pitching documents.
 When I started teaching myself to code I was keen to immerse myself in the industry and meet people working in tech before investing in a course. Attending Rails Girls London in 2019 and a short course with Founders & Coders helped me to test out my interests and learn quickly with like-minded people. 
 
 **European Architecture Students Assembly** (2010-2013 & 2017) \
-*Organiser and tutor*
+*Participant, organiser and tutor*
 
 Annual two week architectural workshop for 400 students in locations around Europe. In 2017 I led a workshop in Denmark, making furniture for public space.
 
