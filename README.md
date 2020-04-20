@@ -10,27 +10,27 @@ My background is in the creative industry, as a marketeer for arts and design ev
 
 I have spent much of my career building and refining websites with brilliant web development teams. Now I am looking for a new challenge as a software developer, where I can use some of my experience to help build great products myself.
 
+#### Tech Skills
+
+**JavaScript** - Jquery, Jasmine, Webpack, APIs\
+**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord\
+Git, HTML, CSS, Bootstrap, SQL, Travis CI, Heroku, Agile, Test Driven Development
+
 ## Projects
 
 |Project   |Description                                                |Technologies                            |
 |----------|-----------------------------------------------------------|----------------------------------------|
-|[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks|Javascript, Ruby, Rails, RSpec, Capybara|
-|[Chitter](https://github.com/lookupdaily/chitter-challenge)|A clone of the popular social media app Twitter            |Ruby, Sinatra, Rspec, Capybara          |
-|[Makersbnb](https://github.com/davmcgregor/Makersbnb)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb |Ruby, Sinatra, Rspec, Capybara|
-|[Thermostat](https://github.com/lookupdaily/thermostat)|A minimalist front-end app for controlling temperature     |JavaScript and Jasmine                  | 
+|[Wanderlist](https://github.com/lookupdaily/Wanderlist)<br><br>![Wanderlist in action](images/wanderlist.gif)|A Google Maps based app for finding and sharing urban walks<br><br>Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, SCSS and Bootstrap CSS|
+|[Chitter](https://github.com/lookupdaily/chitter-challenge)<br><br>![Chitter in action](images/chitter.gif)|A clone of the popular social media app Twitter<br><br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
+|[Makersbnb](https://github.com/davmcgregor/Makersbnb)<br><br>![Space listings on Makersbnb](images/Makersbnb.png)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS|
+|[Thermostat](https://github.com/lookupdaily/thermostat)<br><br>![Thermostat in action](images/thermostat-2.gif)|A minimalist front-end app for controlling temperature     |JavaScript, Jasmine, CSS           | 
 
 
-## Skills
-
-#### Tech
-
-**JavaScript** - Jquery, Jasmine, Webpack, APIs
-**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
-Git, HTML, CSS, Bootstrap, SQL, Travis CI, Heroku, Agile, Test Driven Development
+## Other Skills
 
 #### Communication(s)
 
-As a creative marketing professional I have honed my expertise in communications, from writing engaging copy for design festival newsletters and social media, commissioning and managing great content to celebrate Waltham Forest's year as the first London Borough of Culture, to internal communications and team management.
+As a creative marketing professional I have honed my expertise in communications, from writing engaging copy for design festival newsletters and social media, to commissioning content, as well as internal communications and team management.
 
 #### Process-driven
 
