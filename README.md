@@ -21,7 +21,7 @@ Git, HTML, CSS, Bootstrap, SQL, Travis CI, Heroku, Agile, Test Driven Developmen
 |Project   |Description                                                |Technologies                            |
 |----------|-----------------------------------------------------------|----------------------------------------|
 |[Wanderlist](https://github.com/lookupdaily/Wanderlist)<br><br>![Wanderlist in action](images/wanderlist.gif)|A Google Maps based app for finding and sharing urban walks<br><br>Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, SCSS and Bootstrap CSS|
-|[Chitter](https://github.com/lookupdaily/chitter-challenge)<br><br>![Chitter in action](images/chitter.gif)|A clone of the popular social media app Twitter<br><br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
+|[Chitter](https://github.com/lookupdaily/chitter-challenge)<br><br>![Chitter in action](images/chitter.gif)|A reimagining of the popular social media app Twitter<br><br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
 |[Makersbnb](https://github.com/davmcgregor/Makersbnb)<br><br>![Space listings on Makersbnb](images/Makersbnb.png)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS|
 |[Thermostat](https://github.com/lookupdaily/thermostat)<br><br>![Thermostat in action](images/thermostat-2.gif)|A minimalist front-end app for controlling temperature     |JavaScript, Jasmine, CSS           | 
 
