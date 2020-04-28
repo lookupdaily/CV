@@ -72,7 +72,7 @@ BA (Hons) Architecture 2:1
 - Used problem-solving, user-programming and research to design meaningful spaces for people.
 - Self-taught in Computer Aided Design software: Autocad, Microstation, SketchUp. Plus Adobe Photoshop and InDesign.
 
-#### Our Lady's Convent High School (Sep 2000 - Jul 2011)
+#### Our Lady's Convent High School (Sep 2000 - Jul 2008)
 
 A Level:
 Maths (A), Art (B), English (B), History (A) \
