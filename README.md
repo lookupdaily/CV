@@ -56,7 +56,7 @@ With an architectural education and a background in design events, I have a keen
 
 ## Education
 
-#### Makers Academy (Jan 2019 to Apr 2020)
+#### Makers Academy (Jan 2020 to Apr 2020)
 
 A 12-week intensive software development course focusing on:
 
