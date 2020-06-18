@@ -10,21 +10,25 @@ My background is in the creative industry, as a marketeer for arts and design ev
 
 I have spent much of my career building and refining websites with brilliant web development teams. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself.
 
+I have just completed a software engineering course at Makers Academy, where I was able to develop skills and processes in line with best industry practices. I enjoy producing clean, test-driven code, and like to spend time perfecting user experience and accessibility.
+
 ## Tech Skills
 
-**JavaScript** - Jquery, Jasmine, Webpack, APIs\
+**JavaScript** - Vanilla JS, ES6, NodeJS, Jquery, Jasmine, Jest, , React, Webpack, Babel\
 **Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord\
-Git, HTML, CSS, Bootstrap, SQL, Travis CI, Heroku, Agile, Test Driven Development
+
+Git, HTTP, HTML, CSS, SCSS, Bootstrap, SQL, PostgresSQL, Travis CI, Heroku, Agile, Test Driven Development
 
 ## Projects
 
-|Project   |Description                                                |Technologies                            |
-|----------|-----------------------------------------------------------|----------------------------------------|
-|[Wanderlist](https://github.com/lookupdaily/Wanderlist)<br><br>![Wanderlist in action](images/wanderlist.gif)|A Google Maps based app for finding and sharing urban walks<br><br>Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, SCSS and Bootstrap CSS|
-|[Chitter](https://github.com/lookupdaily/chitter-challenge)<br><br>![Chitter in action](images/chitter.gif)|A clone of the popular social media app Twitter<br><br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
-|[Makersbnb](https://github.com/davmcgregor/Makersbnb)<br><br>![Space listings on Makersbnb](images/Makersbnb.png)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS|
-|[Thermostat](https://github.com/lookupdaily/thermostat)<br><br>![Thermostat in action](images/thermostat-2.gif)|A minimalist front-end app for controlling temperature     |JavaScript, Jasmine, CSS           | 
-
+|Project        |Description                                           |Technologies and processes              |
+|----------|------------------------------------------------------|----------------------------------------|
+|b>[Wanderlist](https://github.com/lookupdaily/Wanderlist)</b><br><br>![Creating a new route in Wanderlist](images/Wanderlist-new-route.png)|A Google Maps based app for finding and sharing urban walks.<br><br>Group project - 1.5 weeks<br><br>GitHub repo [here](https://github.com/lookupdaily/Wanderlist)<br> Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, SCSS and Bootstrap CSS<br><br>Heroku, Travis CI, Code Climate<br>Agile, XP, Git|
+|<b>[Chitter](https://github.com/lookupdaily/chitter-challenge)</b><br><br>![Chitter in action](images/chitter.png)|A clone of the popular social media app Twitter<br><br>Solo Project - weekend challenge<br><br>GitHub repo [here](https://github.com/lookupdaily/chitter-challenge)<br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
+|<b>[Hack For Heroes](https://github.com/jlblumberg/hfh-groceries)</b><br><br>![Hack for Heroes groceries map](images/Hack-for-heroes.png)|Our submission for the hack-for-heroes hackathon, to build something useful for frontline workers and vulnerable people during the COVID-19 health crisis.<br><br>Group project - 2 days<br><br>GitHub repo [here](https://github.com/jlblumberg/hfh-groceries)<br> Deployed at [hfh-groceries.herokuapp.com](http://hfh-groceries.herokuapp.com/) |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS<br><br>Heroku, Travis CI<br>Agile, XP, Git|
+|<b>[Thermostat](https://github.com/lookupdaily/thermostat)</b><br><br>![Thermostat in action](images/thermostat-2.gif)|A minimalist front-end app for controlling temperature<br><br>Pair project<br><br>GitHub repo [here](https://github.com/lookupdaily/thermostat)   |JavaScript, JQuery, Jasmine, CSS | 
+|<b>[Algorithmic Complexity research](https://github.com/lookupdaily/algorithmic-complexity)</b>|A research project to explore scale and complexity in algorithmic design.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/lookupdaily/algorithmic-complexity)|NodeJS, Jest|
+|<b>[Bank Tech Test](https://github.com/lookupdaily/bank-tech-test)</b>|A technical test completed to show of my process, employing test driven development and Object Oriented Design principles.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/lookupdaily/bank-tech-test)|JavaScript, Jasmine|
 
 ## Other Skills
 
