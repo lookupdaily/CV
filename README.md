@@ -12,76 +12,31 @@ I have spent much of my career building and refining websites with brilliant web
 
 I have just completed a software engineering course at Makers Academy, where I was able to develop skills and processes in line with best industry practices. I enjoy producing clean, test-driven code, and like to spend time perfecting user experience and accessibility.
 
-## Tech Skills
-
-**JavaScript** - Vanilla JS, ES6, NodeJS, Jquery, Jasmine, Jest, , React, Webpack, Babel\
-**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
-
-Git, HTTP, HTML, CSS, SCSS, Bootstrap, SQL, PostgresSQL, Travis CI, Heroku, Agile, Test Driven Development
-
 ## Projects
 
 |Project        |Description                                           |Technologies and processes              |
 |----------|------------------------------------------------------|----------------------------------------|
-|[Wanderlist](https://github.com/lookupdaily/Wanderlist)</b><br><br>![Creating a new route in Wanderlist](images/Wanderlist-new-route.png)|A Google Maps based app for finding and sharing urban walks.<br><br>Group project - 1.5 weeks<br><br>GitHub repo [here](https://github.com/lookupdaily/Wanderlist)<br> Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, SCSS and Bootstrap CSS<br><br>Heroku, Travis CI, Code Climate<br>Agile, XP, Git|
-|<b>[Chitter](https://github.com/lookupdaily/chitter-challenge)</b><br><br>![Chitter in action](images/chitter.png)|A clone of the popular social media app Twitter<br><br>Solo Project - weekend challenge<br><br>GitHub repo [here](https://github.com/lookupdaily/chitter-challenge)<br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
-|<b>[Hack For Heroes](https://github.com/jlblumberg/hfh-groceries)</b><br><br>![Hack for Heroes groceries map](images/Hack-for-heroes.png)|Our submission for the hack-for-heroes hackathon, to build something useful for frontline workers and vulnerable people during the COVID-19 health crisis.<br><br>Group project - 2 days<br><br>GitHub repo [here](https://github.com/jlblumberg/hfh-groceries)<br> Deployed at [hfh-groceries.herokuapp.com](http://hfh-groceries.herokuapp.com/) |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS<br><br>Heroku, Travis CI<br>Agile, XP, Git|
-|<b>[Thermostat](https://github.com/lookupdaily/thermostat)</b><br><br>![Thermostat in action](images/thermostat-2.gif)|A minimalist front-end app for controlling temperature<br><br>Pair project<br><br>GitHub repo [here](https://github.com/lookupdaily/thermostat)   |JavaScript, JQuery, Jasmine, CSS | 
-|<b>[Algorithmic Complexity research](https://github.com/lookupdaily/algorithmic-complexity)</b>|A research project to explore scale and complexity in algorithmic design.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/lookupdaily/algorithmic-complexity)|NodeJS, Jest|
-|<b>[Bank Tech Test](https://github.com/lookupdaily/bank-tech-test)</b>|A technical test completed to show of my process, employing test driven development and Object Oriented Design principles.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/lookupdaily/bank-tech-test)|JavaScript, Jasmine|
+|[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks.<br><br>Group project - 1.5 weeks<br><br>GitHub repo [here](https://github.com/lookupdaily/Wanderlist)<br> Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, SCSS and Bootstrap CSS<br><br>Heroku, Travis CI, Code Climate<br>Agile, XP, Git|
+|[Tape It](https://github.com/voice-notes)|A Slack application for sharing voice notes in teams. <br><br>Group project - ongoing<br><br>GitHub repo [here](https://github.com/voice-notes)<br> Deployed at [tapedit.netlify.app](https://tapedit.netlify.app/) |TypeScript, React, CSS, GraphQL, Jest, AWS, Slack<br><br>CircleCI, Netlify<br>Pair programming, Test Driven Development, Git|
+|<b>[Chitter](https://github.com/lookupdaily/chitter-challenge)|A clone of the popular social media app Twitter<br><br>Solo Project - weekend challenge<br><br>GitHub repo [here](https://github.com/lookupdaily/chitter-challenge)<br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
+|<b>[Thermostat](https://github.com/lookupdaily/thermostat)|A minimalist front-end app for controlling temperature<br><br>Pair project<br><br>GitHub repo [here](https://github.com/lookupdaily/thermostat)   |JavaScript, JQuery, Jasmine, CSS | 
+|<b>[Hack For Heroes](https://github.com/jlblumberg/hfh-groceries)|Our submission for the hack-for-heroes hackathon, to build something useful for frontline workers and vulnerable people during the COVID-19 health crisis.<br><br>Group project - 2 days<br><br>GitHub repo [here](https://github.com/jlblumberg/hfh-groceries)<br> Deployed at [hfh-groceries.herokuapp.com](http://hfh-groceries.herokuapp.com/) |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS<br><br>Heroku, Travis CI<br>Agile, XP, Git|
+
+## Tech Skills
+
+**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, React, Jquery, Jest, React Testing Library, Enzyme, Jasmine, Webpack, Babel\
+**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
+
+Git, HTTP, HTML, CSS, SCSS, Bootstrap, SQL, PostgresSQL, Travis CI, Heroku, Agile, Test Driven Development
+
 
 ## Other Skills
 
-#### Communication(s)
-
-As a creative marketing professional I have honed my expertise in communications, from writing engaging copy for design festival newsletters and social media, to commissioning content, as well as internal communications and team management.
-
-#### Process-driven
-
-Whilst at Makers, I have rediscovered my love for a good diagram. Back when I was learning architecture, iterative 'programme' sketches were essential for visualising the journey through a building—and likewise I have found all sorts of diagrams useful for understanding the different parts/or 'objects' of a programme before I start writing any code. I find a methodical approach, good planning and test driven development essential for developing my projects, and look forward to developing these skills throughout my career.
-
-I have been documenting my planning process in my project READMEs. You can find some examples [here](https://github.com/lookupdaily/bank-tech-test) and [here](https://github.com/lookupdaily/chitter-challenge). 
-
-#### User-focused
-
-From architecture, to marketing and now software development, defining audience is key. Reaching a targeted audience, rather than purely numbers through the door, was integral to a successful event for all of our portfolio at Media 10. 
-
-I am also interested in ensuring web products are accessible to wide audiences by integrating accessibility into the development process from the get-go, using semantics and good design practice. 
-
-#### Rapid learner
-
-Whilst at Makers Academy, I have been challenged to learn new languages and frameworks in just a few weeks, striving to become a language agnostic developer.
-
-I have always been adept at learning new skills and absorbing information quickly. From teaching myself design software throughout my architectural education, to picking up new challenges in the workplace. For example, at Media 10 I took on the production of the seminar programmes for Clerkenwell Design Week and 100% Design in addition to my role as Marketing Manager. 
-
-#### Creative
-
-With an architectural education and a background in design events, I have a keen eye for design, and this is something which I am keen to apply in my software career. I am comfortable working with design teams, and with using a suite of design software myself. Whilst learning software development, I have continued to explore the application of CSS and CSS libraries in my projects - so that I can develop my skills across the full stack. 
-
-## Education
-
-#### Makers Academy (Jan 2020 to Apr 2020)
-
-A 12-week intensive software development course focusing on:
-
-- Object Oriented Design
-- Agile Working Methodologies  
-- Test Driven Development (RSpec, Jasmine)
-- Language agnostic learning (Ruby, Rails, JavaScript)
-
-#### University of Manchester (Sep 2008 - Jun 2011)
-
-BA (Hons) Architecture 2:1
-
-- Used problem-solving, user-programming and research to design meaningful spaces for people.
-- Self-taught in Computer Aided Design software: Autocad, Microstation, SketchUp. Plus Adobe Photoshop and InDesign.
-
-#### Our Lady's Convent High School (Sep 2000 - Jul 2008)
-
-A Level:
-Maths (A), Art (B), English (B), History (A) \
-GSCE:
-2 A*Grades, 8 A Grades
+- Experienced in **collaborating** across teams—particularly with designers, web developers, producers and product owners. I am at my happiest working on projects that require this!
+- My communications experience has given me a passion for perfecting **user experience**, and inclusive/accessible design. 
+- Find enjoyment in the **process** - at Makers I have rediscovered my love for a good diagram, and have helped my teams succeed with effective planning, or by devising checklists to manage version control. I have been documenting my planning process in my project READMEs. You can find some examples [here](https://github.com/lookupdaily/bank-tech-test) and [here](https://github.com/lookupdaily/chitter-challenge). 
+- **Rapid learner** - as a Maker, I have picked up the skills to learn new languages and technologies quickly, and this is a skill I am looking forward to leaning on throughout my career in technology. I have picked up new tooling regularly throughout my marketing career and architecture education.
+- **Creativity** - With a background in design and architecture I have a keen eye for design. I have continued to explore the application of CSS and CSS libraries in my projects - so that I can develop my skills across the full stack. 
 
 ## Experience
 
@@ -123,6 +78,30 @@ When I started teaching myself to code I was keen to immerse myself in the indus
 
 Annual two week architectural workshop for 400 students in locations around Europe. In 2017 I led a workshop in Denmark, making furniture for public space.
 
+## Education
+
+#### Makers Academy (Jan 2020 to Apr 2020)
+
+A 12-week intensive software development course focusing on:
+
+- Object Oriented Design
+- Agile Working Methodologies  
+- Test Driven Development (RSpec, Jasmine)
+- Language agnostic learning (Ruby, Rails, JavaScript)
+
+#### University of Manchester (Sep 2008 - Jun 2011)
+
+BA (Hons) Architecture 2:1
+
+- Used problem-solving, user-programming and research to design meaningful spaces for people.
+- Self-taught in Computer Aided Design software: Autocad, Microstation, SketchUp. Plus Adobe Photoshop and InDesign.
+
+#### Our Lady's Convent High School (Sep 2000 - Jul 2008)
+
+A Level:
+Maths (A), Art (B), English (B), History (A) \
+GSCE:
+2 A*Grades, 8 A Grades
 
 ## Interests
 
