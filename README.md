@@ -16,18 +16,18 @@ I have just completed a software engineering course at Makers Academy, where I w
 
 |Project        |Description                                           |Technologies and processes              |
 |----------|------------------------------------------------------|----------------------------------------|
-|[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks.<br><br>Group project - 1.5 weeks<br><br>GitHub repo [here](https://github.com/lookupdaily/Wanderlist)<br> Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, SCSS and Bootstrap CSS<br><br>Heroku, Travis CI, Code Climate<br>Agile, XP, Git|
-|[Tape It](https://github.com/voice-notes)|A Slack application for sharing voice notes in teams. <br><br>Group project - ongoing<br><br>GitHub repo [here](https://github.com/voice-notes)<br> Deployed at [tapedit.netlify.app](https://tapedit.netlify.app/) |TypeScript, React, CSS, GraphQL, Jest, AWS, Slack<br><br>CircleCI, Netlify<br>Pair programming, Test Driven Development, Git|
+|[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks.<br><br>Group project - 1.5 weeks<br><br>GitHub repo [here](https://github.com/lookupdaily/Wanderlist)<br> Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, CSS and Bootstrap CSS<br><br>Heroku, Travis CI, Code Climate|
+|[Tape It](https://github.com/voice-notes)|A Slack application for sharing voice notes in teams. <br><br>Group project - ongoing<br><br>GitHub repo [here](https://github.com/voice-notes)<br> Deployed at [tapedit.netlify.app](https://tapedit.netlify.app/) |TypeScript, React, CSS, GraphQL, Jest, AWS, Slack<br><br>CircleCI, Netlify|
 |<b>[Chitter](https://github.com/lookupdaily/chitter-challenge)|A clone of the popular social media app Twitter<br><br>Solo Project - weekend challenge<br><br>GitHub repo [here](https://github.com/lookupdaily/chitter-challenge)<br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
 |<b>[Thermostat](https://github.com/lookupdaily/thermostat)|A minimalist front-end app for controlling temperature<br><br>Pair project<br><br>GitHub repo [here](https://github.com/lookupdaily/thermostat)   |JavaScript, JQuery, Jasmine, CSS | 
-|<b>[Hack For Heroes](https://github.com/jlblumberg/hfh-groceries)|Our submission for the hack-for-heroes hackathon, to build something useful for frontline workers and vulnerable people during the COVID-19 health crisis.<br><br>Group project - 2 days<br><br>GitHub repo [here](https://github.com/jlblumberg/hfh-groceries)<br> Deployed at [hfh-groceries.herokuapp.com](http://hfh-groceries.herokuapp.com/) |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS<br><br>Heroku, Travis CI<br>Agile, XP, Git|
+|<b>[Hack For Heroes](https://github.com/jlblumberg/hfh-groceries)|Our submission for the hack-for-heroes hackathon, to build something useful for frontline workers and vulnerable people during the COVID-19 health crisis.<br><br>Group project - 2 days<br><br>GitHub repo [here](https://github.com/jlblumberg/hfh-groceries)<br> Deployed at [hfh-groceries.herokuapp.com](http://hfh-groceries.herokuapp.com/) |Ruby on Rails, JavaScript, Google Maps API<br><br>Heroku, Travis CI|
 
 ## Tech Skills
 
-**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, React, Jquery, Jest, React Testing Library, Enzyme, Jasmine, Webpack, Babel\
-**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
+**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, React, Jquery, Jest, Jasmine\
+**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara
 
-Git, HTTP, HTML, CSS, SCSS, Bootstrap, SQL, PostgresSQL, Travis CI, Heroku, Agile, Test Driven Development
+Git, HTML, CSS, PostgresSQL, Travis CI, Heroku, Agile, Test Driven Development
 
 
 ## Other Skills
