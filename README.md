@@ -14,7 +14,7 @@ I have just completed a software engineering course at Makers Academy, where I w
 
 ## Projects
 
-|Project        |Description                                           |Technologies and processes              |
+|Project        |Description                                           |Technologies              |
 |----------|------------------------------------------------------|----------------------------------------|
 |[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks.<br><br>Group project - 1.5 weeks<br><br>GitHub repo [here](https://github.com/lookupdaily/Wanderlist)<br> Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, CSS and Bootstrap CSS<br><br>Heroku, Travis CI, Code Climate|
 |[Tape It](https://github.com/voice-notes)|A Slack application for sharing voice notes in teams. <br><br>Group project - ongoing<br><br>GitHub repo [here](https://github.com/voice-notes)<br> Deployed at [tapedit.netlify.app](https://tapedit.netlify.app/) |TypeScript, React, CSS, GraphQL, Jest, AWS, Slack<br><br>CircleCI, Netlify|
