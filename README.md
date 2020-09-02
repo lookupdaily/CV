@@ -20,7 +20,6 @@ I have just completed a software engineering course at Makers Academy, where I w
 |[Tape It](https://github.com/voice-notes)|A Slack application for sharing voice notes in teams. <br><br>Group project - ongoing<br><br>GitHub repo [here](https://github.com/voice-notes)<br> Deployed at [tapedit.netlify.app](https://tapedit.netlify.app/) |TypeScript, React, CSS, GraphQL, Jest, AWS, Slack<br><br>CircleCI, Netlify|
 |<b>[Chitter](https://github.com/lookupdaily/chitter-challenge)|A clone of the popular social media app Twitter<br><br>Solo Project - weekend challenge<br><br>GitHub repo [here](https://github.com/lookupdaily/chitter-challenge)<br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
 |<b>[Thermostat](https://github.com/lookupdaily/thermostat)|A minimalist front-end app for controlling temperature<br><br>Pair project<br><br>GitHub repo [here](https://github.com/lookupdaily/thermostat)   |JavaScript, JQuery, Jasmine, CSS | 
-|<b>[Hack For Heroes](https://github.com/jlblumberg/hfh-groceries)|Our submission for the hack-for-heroes hackathon, to build something useful for frontline workers and vulnerable people during the COVID-19 health crisis.<br><br>Group project - 2 days<br><br>GitHub repo [here](https://github.com/jlblumberg/hfh-groceries)<br> Deployed at [hfh-groceries.herokuapp.com](http://hfh-groceries.herokuapp.com/) |Ruby on Rails, JavaScript, Google Maps API<br><br>Heroku, Travis CI|
 
 ## Tech Skills
 
