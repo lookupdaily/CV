@@ -24,8 +24,8 @@ After completing a software engineering course at Makers Academy, I have been wo
 ## Tech Skills
 
 **JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, Angular, React, Jest, Jasmine, Ionic\
-**C# - .NET, LINQ
-**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara
+**C#** - .NET, LINQ\
+**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara\
 
 Git, HTML, CSS, SQL, Azure Fundamentals, Travis CI, Heroku, Agile, Test Driven Development, Xcode
 
@@ -40,7 +40,7 @@ Git, HTML, CSS, SQL, Azure Fundamentals, Travis CI, Heroku, Agile, Test Driven D
 
 ## Experience
   
-**Cognizant** (September 2020 - present)
+**Cognizant** (September 2020 - present)\
 *Associate - Projects* \
 Supporting the delivery of Release 1 of a new National Signalling Relays Database for Network Rail as part of the Intelligent Infrastructure programme—a five-year transformation programme focused on providing maintenance teams the insight they need to proactively fix faults before they cause delays.
  
