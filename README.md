@@ -8,9 +8,9 @@
 
 My background is in the creative industry, as a marketeer for arts and design events. Increasingly, our events were reliant on our digital platforms, which is where I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
 
-I have spent much of my career building and refining websites with brilliant web development teams. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself.
+I have spent much of my career building and refining websites with brilliant web development teams. Now I am embarking on a new challenge as a software developer, where I am using some of my experience to help build great products myself.
 
-I have just completed a software engineering course at Makers Academy, where I was able to develop skills and processes in line with best industry practices. I enjoy producing clean, test-driven code, and like to spend time perfecting user experience and accessibility.
+After completing a software engineering course at Makers Academy, I have been working as a full-stack developer at Cognizant, contributing to Network Rail's transformative Intelligent Infrastructure programme. I enjoy producing clean, test-driven code, and like to spend time perfecting user experience and accessibility.
 
 ## Projects
 
@@ -23,21 +23,32 @@ I have just completed a software engineering course at Makers Academy, where I w
 
 ## Tech Skills
 
-**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, React, Jquery, Jest, Jasmine\
+**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, Angular, React, Jest, Jasmine, Ionic\
+**C# - .NET, LINQ
 **Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara
 
-Git, HTML, CSS, PostgresSQL, Travis CI, Heroku, Agile, Test Driven Development
+Git, HTML, CSS, SQL, Azure Fundamentals, Travis CI, Heroku, Agile, Test Driven Development, Xcode
 
 
 ## Other Skills
 
-- Experienced in **collaborating** across teams—particularly with designers, web developers, producers and product owners. I am at my happiest working on projects that require this!
+- Experienced in **collaborating** across teams—particularly with business analysts, product owners, designers, web developers, producers and product owners. I am at my happiest working on projects that require this, and regulary present demos to clients and key stakeholders.
 - My communications experience has given me a passion for perfecting **user experience**, and inclusive/accessible design. 
 - Find enjoyment in the **process** - at Makers I have rediscovered my love for a good diagram, and have helped my teams succeed with effective planning, or by devising checklists to manage version control. I have been documenting my planning process in my project READMEs. You can find some examples [here](https://github.com/lookupdaily/bank-tech-test) and [here](https://github.com/lookupdaily/chitter-challenge). 
-- **Rapid learner** - as a Maker, I have picked up the skills to learn new languages and technologies quickly, and this is a skill I am looking forward to leaning on throughout my career in technology. I have picked up new tooling regularly throughout my marketing career and architecture education.
-- **Creativity** - With a background in design and architecture I have a keen eye for design. I have continued to explore the application of CSS and CSS libraries in my projects - so that I can develop my skills across the full stack. 
+- **Rapid learner** - I have picked up the skills to learn new languages and technologies quickly, and I hope to coninue this throughout my career in technology. I have picked up new tooling regularly throughout my marketing career and architecture education.
+- **Creativity** - With a background in design and architecture I have a keen eye for design. I keep an open conversation with our UX teams to ensure consistent and usable design across our apps.
 
 ## Experience
+  
+**Cognizant** (September 2020 - present)
+*Associate - Projects* \
+Supporting the delivery of Release 1 of a new National Signalling Relays Database for Network Rail as part of the Intelligent Infrastructure programme—a five-year transformation programme focused on providing maintenance teams the insight they need to proactively fix faults before they cause delays.
+ 
+- Deliver new product features to schedule through the creation of Angular components, API development and unit testing, whilst ensuring adherence to visual designs and expected behaviour.
+- Provide support for UAT testing phase and ELS period by providing bug fixes
+- Present regular live demonstration of new features to client, key stakeholders and end-users
+- Creation of reusable components for programme-wide UI component library
+Tools: Angular, Ionic, SCSS, .NET, Azure Services
 
 **Waltham Forest Council** (Jul 2019 - Dec 2019 & Nov 2017 - Nov 2018, with a travel break)    
 *London Borough of Culture Project Lead, Marketing & Communications* \
