@@ -42,7 +42,7 @@ Git, HTML, CSS, SQL, Azure Fundamentals, Travis CI, Heroku, Agile, Test Driven D
   
 **Cognizant** (September 2020 - present)\
 *Associate - Projects* \
-Supporting the delivery of Release 1 of a new National Signalling Relays Database for Network Rail as part of the Intelligent Infrastructure programme—a five-year transformation programme focused on providing maintenance teams the insight they need to proactively fix faults before they cause delays.
+Supporting the delivery of new National Signalling Relays Database for Network Rail as part of the Intelligent Infrastructure programme—a five-year transformation programme focused on providing maintenance teams the insight they need to proactively fix faults before they cause delays.
  
 - Deliver new product features to schedule through the creation of Angular components, API development and unit testing, whilst ensuring adherence to visual designs and expected behaviour.
 - Provide support for UAT testing phase and ELS period by providing bug fixes
