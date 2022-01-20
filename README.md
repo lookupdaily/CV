@@ -23,9 +23,9 @@ After completing a software engineering course at Makers Academy, I have been wo
 
 ## Tech Skills
 
-**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, Angular, React, Jest, Jasmine, Ionic\
-**C#** - .NET, LINQ\
-**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara\
+**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, Angular, React, Jest, Jasmine, Ionic \
+**C#** - .NET, LINQ \
+**Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara \
 
 Git, HTML, CSS, SQL, Azure Fundamentals, Travis CI, Heroku, Agile, Test Driven Development, Xcode
 
