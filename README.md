@@ -2,7 +2,7 @@
   <h1>Liz Daly</h1>
 
   **A full-stack software developer with an appetite for learning and new challenges**<br>
-  [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/lookupdaily/)
+  [Projects](#projects) | [Skills](#tech-skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/lookupdaily/)
   <br>
 </div>
 
@@ -10,7 +10,9 @@ My background is in the creative industry, as a marketeer for arts and design ev
 
 I have spent much of my career building and refining websites with brilliant web development teams. Now I am embarking on a new challenge as a software developer, where I am using some of my experience to help build great products myself.
 
-After completing a software engineering course at Makers Academy, I have been working as a full-stack developer at Cognizant, contributing to Network Rail's transformative Intelligent Infrastructure programme. I enjoy producing clean, test-driven code, and like to spend time perfecting user experience and accessibility.
+After completing a software engineering course at Makers Academy, I have been working as a full-stack developer at Cognizant, contributing to Network Rail's transformative Intelligent Infrastructure programme. I am now working at dxw, a digital agency creating public services that improve lives.
+
+I enjoy producing clean, test-driven code, and like to spend time perfecting user experience and accessibility.
 
 ## Projects
 
@@ -39,8 +41,13 @@ Git, HTML, CSS, SQL, Azure Fundamentals, Travis CI, Heroku, Agile, Test Driven D
 - **Creativity** - With a background in design and architecture I have a keen eye for design. I keep an open conversation with our UX teams to ensure consistent and usable design across our apps.
 
 ## Experience
-  
-**Cognizant** (September 2020 - present)\
+
+**dxw** (January 2023 - present)\
+*Developer* \
+Creating public services that improve lives.\
+Tools: JavaScript, TypeScript, .NET
+
+**Cognizant** (September 2020 - December 2022)\
 *Associate - Projects* \
 Supporting the delivery of new National Signalling Relays Database for Network Rail as part of the Intelligent Infrastructure programme—a five-year transformation programme focused on providing maintenance teams the insight they need to proactively fix faults before they cause delays.
  
@@ -48,6 +55,7 @@ Supporting the delivery of new National Signalling Relays Database for Network R
 - Provide support for UAT testing phase and ELS period by providing bug fixes
 - Present regular live demonstration of new features to client, key stakeholders and end-users
 - Creation of reusable components for programme-wide UI component library
+
 Tools: Angular, Ionic, SCSS, .NET, Azure Services
 
 **Waltham Forest Council** (Jul 2019 - Dec 2019 & Nov 2017 - Nov 2018, with a travel break)    
