@@ -8,9 +8,7 @@
 
 My background is in the creative industry, as a marketeer for arts and design events. Increasingly, our events were reliant on our digital platforms, which is where I was able to hone my interest in web development, choosing to take the lead on new digital products where possible.
 
-I have spent much of my career building and refining websites with brilliant web development teams. Now I am embarking on a new challenge as a software developer, where I am using some of my experience to help build great products myself.
-
-After completing a software engineering course at Makers Academy, I have been working as a full-stack developer at Cognizant, contributing to Network Rail's transformative Intelligent Infrastructure programme. I am now working at dxw, a digital agency creating public services that improve lives.
+After completing a software engineering course at Makers Academy, I have been working as a full-stack developer at digital agencies, supporting digital transformation within the public sector. I am now working at dxw, a digital agency creating public services that improve lives.
 
 I enjoy producing clean, test-driven code, and like to spend time perfecting user experience and accessibility.
 
@@ -18,14 +16,13 @@ I enjoy producing clean, test-driven code, and like to spend time perfecting use
 
 |Project        |Description                                           |Technologies              |
 |----------|------------------------------------------------------|----------------------------------------|
-|[Wanderlist](https://github.com/lookupdaily/Wanderlist)|A Google Maps based app for finding and sharing urban walks.<br><br>Group project - 1.5 weeks<br><br>GitHub repo [here](https://github.com/lookupdaily/Wanderlist)<br> Deployed at [wanderlist-makers.herokuapp.com](http://wanderlist-makers.herokuapp.com/) |Javascript, Ruby, Rails, RSpec, Capybara, CSS and Bootstrap CSS<br><br>Heroku, Travis CI, Code Climate|
-|[Tape It](https://github.com/voice-notes)|A Slack application for sharing voice notes in teams. <br><br>Group project - ongoing<br><br>GitHub repo [here](https://github.com/voice-notes)<br> Deployed at [tapedit.netlify.app](https://tapedit.netlify.app/) |TypeScript, React, CSS, GraphQL, Jest, AWS, Slack<br><br>CircleCI, Netlify|
-|[Chitter](https://github.com/lookupdaily/chitter-challenge)|A clone of the popular social media app Twitter<br><br>Solo Project - weekend challenge<br><br>GitHub repo [here](https://github.com/lookupdaily/chitter-challenge)<br>Deployed at [chit-ter.herokuapp.com](http://chit-ter.herokuapp.com/)           |Ruby, Sinatra, Rspec, Capybara, Bootstrap CSS          |
-|[Thermostat](https://github.com/lookupdaily/thermostat)|A minimalist front-end app for controlling temperature<br><br>Pair project<br><br>GitHub repo [here](https://github.com/lookupdaily/thermostat)   |JavaScript, JQuery, Jasmine, CSS | 
+|Members' Register of Financial Interests, UK Parliament (dxw)| We are delivering a new Application Programming Interface (API) to enable easier access to and analysis of members' registered interests, as well as improved access for members of the public via the Parliament website. This is being delivered alongside [continued improvements to the way members register their interests](https://pds.blog.parliament.uk/2024/04/17/changing-the-way-members-register-their-interests/) - with the aim of providing more structured and consistent data. | ASP.NET Core (C#), Angular (TypeScript), Nunit, Jasmine |
+|[Find information about Academies and Trusts](https://github.com/DFE-Digital/find-information-about-academies-and-trusts),<br/>Department for Education (dxw) | An internal tool for everyone in DfE to find information about academies and trusts to inform their assessments, decisions and support activities.|ASP.NET Core Razor Pages, TypeScript, JavaScript, Docker, GOV.UK Design System, XUnit, Playwright|
+|[Intelligent Infrastructure](https://www.networkrail.co.uk/running-the-railway/intelligent-infrastructure/),<br/>Network Rail (Cognizant)|Supporting the national roll-out of several key products for Network Rail as part of the Intelligent Infrastructure programme—a digital transformation programme focused on providing maintenance teams the insight they need to predict and prevent faults before they cause delays.|Angular (TypeScript), Ionic, ASP.NET Core APIs (C#), Jasmine|
 
 ## Tech Skills
 
-**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, Angular, React, Jest, Jasmine, Ionic \
+**JavaScript** - Vanilla JS, ES6, NodeJS, TypeScript, Angular, React, Jest, Jasmine, Playwright, Ionic \
 **C#** - .NET, LINQ \
 **Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara
 
