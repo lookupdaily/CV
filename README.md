@@ -26,12 +26,12 @@ I enjoy producing clean, test-driven code, and like to spend time perfecting use
 **C#** - .NET, LINQ \
 **Ruby** - Ruby on Rails, Sinatra, RSpec, Capybara
 
-Git, HTML, CSS, SQL, Azure Fundamentals, Travis CI, Heroku, Agile, Test Driven Development, Xcode
+Git, HTML, CSS, SQL, Azure Fundamentals, Docker, Test Driven Development, Xcode
 
 
 ## Other Skills
 
-- Experienced in **collaborating** across teams—particularly with business analysts, product owners, designers, web developers, producers and product owners. I am at my happiest working on projects that require this, and regulary present demos to clients and key stakeholders.
+- Experienced in **collaborating** across teams—particularly with user researchers, designers, product owners, web developers and business analysts. I am at my happiest working on projects that require this, and regulary present demos to clients and key stakeholders.
 - My communications experience has given me a passion for perfecting **user experience**, and inclusive/accessible design. 
 - Find enjoyment in the **process** - at Makers I have rediscovered my love for a good diagram, and have helped my teams succeed with effective planning, or by devising checklists to manage version control. I have been documenting my planning process in my project READMEs. You can find some examples [here](https://github.com/lookupdaily/bank-tech-test) and [here](https://github.com/lookupdaily/chitter-challenge). 
 - **Rapid learner** - I have picked up the skills to learn new languages and technologies quickly, and I hope to coninue this throughout my career in technology. I have picked up new tooling regularly throughout my marketing career and architecture education.
