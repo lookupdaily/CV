@@ -1,3 +1,6 @@
+I have archived this document and it will not be keeping it up to date. You can find my up to date CV at [lizdaly.dev/cv](https://lizdaly.dev/)
+<hr>
+
 <div align="center">
   <h1>Liz Daly</h1>
 
